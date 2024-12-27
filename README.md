@@ -9,7 +9,7 @@ Before we start, it's crucial to have a basic understanding of HTML (HyperText M
 HTML is used to structure the content on the web page.
 CSS is used for styling and designing the webpage.
 JavaScript is used to make the webpage interactive.
-Step 2: Setting Up Your Project
+Step 2: Setting Up this Project
 
 Create a new folder on your computer where you will store your project files. Inside this folder, create three separate files: index.html, style.css, and script.js.
 
